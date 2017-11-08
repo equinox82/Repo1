@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C808-A998
+
+ Directory of C:\Users\admin\Desktop\git\myfolder
+
+11/07/2017  08:53 PM    <DIR>          .
+11/07/2017  08:53 PM    <DIR>          ..
+11/07/2017  08:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,877,123,072 bytes free
